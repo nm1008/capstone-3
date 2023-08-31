@@ -1,0 +1,22 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body{
+	background-color: #f4faff;
+}
+
+.cardHighlight {
+	background-color: #fffcf9;
+	min-height: 100%;
+	border-radius: 10px;
+
+}
+.jumbotron{
+
+	margin: 10px;
+}
+
